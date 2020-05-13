@@ -1,0 +1,90 @@
+.registrationForm{
+    position: absolute;
+    top: 2%;
+    left: 29%;
+    background-color: white;
+    width: 53%;
+    height: 96%;
+    border-radius: 5px;
+}
+input{
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+}
+.comments{
+    width: 53%;
+    height: 11%;
+    position: relative;
+    top: -173px;
+}
+
+
+.btn1{
+    position: relative;
+    top: -27%;
+    right: 4%;
+}
+h1{
+    position: relative;
+    top: -24px;
+}
+
+.inptName{
+    width: 50%;
+    text-align-last: left;
+    position: relative;
+    top: -44px;
+    
+}
+
+.inptEmail{
+    width: 50%;
+    text-align-last: left;
+    position: relative;
+    top: -105px;
+    
+}
+
+.inptPhome{
+    width: 50%;
+    text-align-last: left;
+    position: relative;
+    top: -161px;
+    
+}
+.inptDob{
+    width: 50%;
+    text-align-last: left;
+    position: relative;
+    top: -180px;
+    
+}
+.btn{
+    width: 25%;
+    height: 42px;
+    text-align: center;
+    background-color: lightblue;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    color: black;
+}
+.inptGender{
+    position: relative;
+    top: -28%;
+    right: 6%;
+}
+p.nameErrors{
+   position: relative;
+   top: -81px;
+   right: 19%;
+   color: red;
+}
+p.emailErrors{
+    position: relative;
+    top: -143px;
+    right: 19%;
+    color: red;
+ }
+ 
